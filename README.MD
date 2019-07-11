@@ -1,5 +1,4 @@
-# Stickerfy
-
+# Stickerfy [![Build Status](https://travis-ci.org/thechrise/stickerfy.svg?branch=master)](https://travis-ci.org/thechrise/stickerfy)
 
 ### Run Locally on Your Machine
 You need Node, NPM and MongoDB properly installed. To get started:
